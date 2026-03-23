@@ -35,8 +35,8 @@ I build machine learning pipelines, production AI platforms, and autonomous agen
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [SourceWithAI Platform](https://github.com/karanparekh14/SWAI-MAIN) | Full-stack AI-powered B2B sourcing marketplace with conversational search, multi-platform aggregation, and 50+ API endpoints. **Live at sourcewithai.com** | Next.js, Express, FastAPI, MongoDB, Elasticsearch, Redis, GPT-4o, Claude |
-| [Chotu â€” AI Operations Agent](https://github.com/karanparekh14/CHOTU-BOT-SWAI) | WhatsApp-connected autonomous agent. Product sourcing, presentation generation, email campaigns, persistent memory. **Running 24/7 in production.** | OpenClaw, Claude Sonnet, Node.js, Gamma API, OTAPI, SmartLead |
+| [SourceWithAI Platform](https://github.com/karanparekh14/sourcewithai-platform) | Full-stack AI-powered B2B sourcing marketplace with conversational search, multi-platform aggregation, and 50+ API endpoints. **Live at sourcewithai.com** | Next.js, Express, FastAPI, MongoDB, Elasticsearch, Redis, GPT-4o, Claude |
+| [Chotu â€” AI Operations Agent](https://github.com/karanparekh14/chotu-ai-agent) | WhatsApp-connected autonomous agent. Product sourcing, presentation generation, email campaigns, persistent memory. **Running 24/7 in production.** | OpenClaw, Claude Sonnet, Node.js, Gamma API, OTAPI, SmartLead |
 | [Customer Churn Prediction](https://github.com/karanparekh14/CUSTOMER-CHURN-PREDICTION-IN-TELECOM-USING-MACHINE-LEARNING) | XGBoost + SHAP pipeline for telecom churn. **87.9% accuracy, 406% ROI.** | Python, XGBoost, SHAP, SMOTE |
 | [Federal Employee Satisfaction](https://github.com/karanparekh14/ADTA5940-Federal-Employee-Satisfaction) | Hierarchical OLS regression on 646K survey records. **Discovered Simpson's Paradox** in telework data. | Python, Statsmodels, Matplotlib |
 | [Lead Scoring Model](https://github.com/karanparekh14/Lead-Score-Case-Study) | Logistic regression lead scoring. **ROC-AUC 0.86.** VIF multicollinearity analysis. | Python, Scikit-learn, Statsmodels |

@@ -37,9 +37,9 @@ I build machine learning pipelines, production AI platforms, and autonomous agen
 |---------|-------------|-------|
 | [SourceWithAI Platform](https://github.com/karanparekh14/sourcewithai-platform) | Full-stack AI-powered B2B sourcing marketplace with conversational search, multi-platform aggregation, and 50+ API endpoints. **Live at sourcewithai.com** | Next.js, Express, FastAPI, MongoDB, Elasticsearch, Redis, GPT-4o, Claude |
 | [Chotu: AI Operations Agent](https://github.com/karanparekh14/chotu-ai-agent) | WhatsApp-connected autonomous agent. Product sourcing, presentation generation, email campaigns, persistent memory. **Running 24/7 in production.** | OpenClaw, Claude Sonnet, Node.js, Gamma API, OTAPI, SmartLead |
-| [Customer Churn Prediction](https://github.com/karanparekh14/CUSTOMER-CHURN-PREDICTION-IN-TELECOM-USING-MACHINE-LEARNING) | Interpretable XGBoost + SHAP classification pipeline for telecom churn, with a costed retention business case. | Python, XGBoost, SHAP, SMOTE |
-| [Federal Employee Satisfaction](https://github.com/karanparekh14/federal-employee-satisfaction-analysis) | Hierarchical OLS regression on 646K survey records. **Surfaced a Simpson's Paradox** in telework data. | Python, Statsmodels, Matplotlib |
-| [Lead Scoring Model](https://github.com/karanparekh14/Lead-Score-Case-Study) | Logistic regression lead scoring. **ROC-AUC 0.86.** VIF multicollinearity analysis. | Python, Scikit-learn, Statsmodels |
+| [Customer Churn Prediction](https://github.com/karanparekh14/CUSTOMER-CHURN-PREDICTION-IN-TELECOM-USING-MACHINE-LEARNING) | Interpretable XGBoost and SHAP classification pipeline for telecom churn. **78.2% accuracy, 0.848 AUC** on the test set, with a costed retention business case. | Python, XGBoost, SHAP, SMOTE |
+| [Federal Employee Satisfaction](https://github.com/karanparekh14/federal-employee-satisfaction-analysis) | Hierarchical OLS regression on 646K survey records, final R2 of .597. **Surfaced a Simpson's Paradox** in telework data. | Python, Statsmodels, Matplotlib |
+| [Lead Scoring Model](https://github.com/karanparekh14/Lead-Score-Case-Study) | Logistic regression lead scoring. **81.5% test accuracy, 76.3% recall.** ROC-AUC 0.88 on train, VIF multicollinearity analysis. | Python, Scikit-learn, Statsmodels |
 | [LLM Evaluation Research](https://github.com/karanparekh14/llm-contamination-detection-eval) | Tested Gemini's ability to detect 450 planted contaminants in 150 academic PDFs. 4-person research team. | Python, Gemini API, NLP |
 
 ---

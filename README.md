@@ -9,13 +9,13 @@ I build machine learning pipelines, production AI platforms, and autonomous agen
 ### What I Build
 
 **Production AI Systems**
-- Built and deployed [SourceWithAI](https://sourcewithai.com) — a full-stack AI-powered B2B sourcing platform with conversational search, multi-LLM orchestration, and vector search (Next.js + Express + FastAPI + MongoDB + Elasticsearch)
-- Designed an autonomous WhatsApp AI agent (Chotu) that handles business operations 24/7 — product sourcing, presentation generation, email campaigns, and team coordination using persistent memory architecture
+- Built and deployed [SourceWithAI](https://sourcewithai.com), a full-stack AI-powered B2B sourcing platform with conversational search, multi-LLM orchestration, and vector search (Next.js + Express + FastAPI + MongoDB + Elasticsearch)
+- Designed an autonomous WhatsApp AI agent (Chotu) that handles business operations 24/7: product sourcing, presentation generation, email campaigns, and team coordination using persistent memory architecture
 
 **Machine Learning & Statistical Research**
 - Classification, regression, NLP, XGBoost, SHAP interpretability
-- Hierarchical regression on 646K federal employee records — discovered Simpson's Paradox
-- LLM evaluation research — tested Gemini's contamination detection on 150 academic PDFs
+- Hierarchical regression on 646K federal employee records that surfaced a Simpson's Paradox
+- LLM evaluation research testing Gemini's contamination detection on 150 academic PDFs
 
 ---
 
@@ -36,11 +36,11 @@ I build machine learning pipelines, production AI platforms, and autonomous agen
 | Project | What It Does | Stack |
 |---------|-------------|-------|
 | [SourceWithAI Platform](https://github.com/karanparekh14/sourcewithai-platform) | Full-stack AI-powered B2B sourcing marketplace with conversational search, multi-platform aggregation, and 50+ API endpoints. **Live at sourcewithai.com** | Next.js, Express, FastAPI, MongoDB, Elasticsearch, Redis, GPT-4o, Claude |
-| [Chotu — AI Operations Agent](https://github.com/karanparekh14/chotu-ai-agent) | WhatsApp-connected autonomous agent. Product sourcing, presentation generation, email campaigns, persistent memory. **Running 24/7 in production.** | OpenClaw, Claude Sonnet, Node.js, Gamma API, OTAPI, SmartLead |
-| [Customer Churn Prediction](https://github.com/karanparekh14/CUSTOMER-CHURN-PREDICTION-IN-TELECOM-USING-MACHINE-LEARNING) | XGBoost + SHAP pipeline for telecom churn. **87.9% accuracy, 406% ROI.** | Python, XGBoost, SHAP, SMOTE |
-| [Federal Employee Satisfaction](https://github.com/karanparekh14/ADTA5940-Federal-Employee-Satisfaction) | Hierarchical OLS regression on 646K survey records. **Discovered Simpson's Paradox** in telework data. | Python, Statsmodels, Matplotlib |
+| [Chotu: AI Operations Agent](https://github.com/karanparekh14/chotu-ai-agent) | WhatsApp-connected autonomous agent. Product sourcing, presentation generation, email campaigns, persistent memory. **Running 24/7 in production.** | OpenClaw, Claude Sonnet, Node.js, Gamma API, OTAPI, SmartLead |
+| [Customer Churn Prediction](https://github.com/karanparekh14/CUSTOMER-CHURN-PREDICTION-IN-TELECOM-USING-MACHINE-LEARNING) | Interpretable XGBoost + SHAP classification pipeline for telecom churn, with a costed retention business case. | Python, XGBoost, SHAP, SMOTE |
+| [Federal Employee Satisfaction](https://github.com/karanparekh14/federal-employee-satisfaction-analysis) | Hierarchical OLS regression on 646K survey records. **Surfaced a Simpson's Paradox** in telework data. | Python, Statsmodels, Matplotlib |
 | [Lead Scoring Model](https://github.com/karanparekh14/Lead-Score-Case-Study) | Logistic regression lead scoring. **ROC-AUC 0.86.** VIF multicollinearity analysis. | Python, Scikit-learn, Statsmodels |
-| [LLM Evaluation Research](https://github.com/karanparekh14/ADTA5770-LLM-Evaluation) | Tested Gemini's ability to detect 450 planted contaminants in 150 academic PDFs. 4-person research team. | Python, Gemini API, NLP |
+| [LLM Evaluation Research](https://github.com/karanparekh14/llm-contamination-detection-eval) | Tested Gemini's ability to detect 450 planted contaminants in 150 academic PDFs. 4-person research team. | Python, Gemini API, NLP |
 
 ---
 

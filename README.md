@@ -23,7 +23,7 @@ I build machine learning pipelines, production AI platforms, and autonomous agen
 
 - **Languages:** Python, JavaScript/TypeScript, SQL, R
 - **ML/AI:** Scikit-learn, XGBoost, SHAP, Statsmodels, Pandas, NumPy, OpenAI, Gemini, Anthropic Claude
-- **Search & AI:** Vector embeddings (Transformers.js), RAG, Elasticsearch, intent classification, LangChain, LangGraph, MCP
+- **Search & AI:** Vector embeddings (Transformers.js), RAG, Elasticsearch, intent classification, LangChain
 - **Web:** Next.js, React, Express.js, FastAPI, Node.js, Socket.io
 - **Databases:** MongoDB, PostgreSQL, MySQL, Redis, Elasticsearch
 - **Cloud & DevOps:** AWS (S3), Vultr VPS, Nginx, PM2, Vercel, Docker
@@ -40,7 +40,7 @@ I build machine learning pipelines, production AI platforms, and autonomous agen
 | [Customer Churn Prediction](https://github.com/karanparekh14/CUSTOMER-CHURN-PREDICTION-IN-TELECOM-USING-MACHINE-LEARNING) | Interpretable XGBoost and SHAP classification pipeline for telecom churn. **78.2% accuracy, 0.848 AUC** on the test set, with a costed retention business case. | Python, XGBoost, SHAP, SMOTE |
 | [Federal Employee Satisfaction](https://github.com/karanparekh14/federal-employee-satisfaction-analysis) | Hierarchical OLS regression on 646K survey records, final R2 of .597. **Surfaced a Simpson's Paradox** in telework data. | Python, Statsmodels, Matplotlib |
 | [Lead Scoring Model](https://github.com/karanparekh14/Lead-Score-Case-Study) | Logistic regression lead scoring. **81.5% test accuracy, 76.3% recall.** ROC-AUC 0.88 on train, VIF multicollinearity analysis. | Python, Scikit-learn, Statsmodels |
-| [LLM Evaluation Research](https://github.com/karanparekh14/llm-contamination-detection-eval) | Tested Gemini's ability to detect 450 planted contaminants in 150 academic PDFs. 4-person research team. | Python, Gemini API, NLP |
+| [LLM Evaluation Research](https://github.com/karanparekh14/llm-contamination-detection-eval) | Tested Gemini's ability to detect 450 planted contaminants in 150 academic PDFs. Published: [When Auditors Fabricate (Zenodo, 2026)](https://doi.org/10.5281/zenodo.21939088). | Python, Gemini API, NLP |
 
 ---
 

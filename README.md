@@ -10,7 +10,7 @@ I build machine learning pipelines, production AI platforms, and autonomous agen
 
 | Year | Work | Where |
 |------|------|-------|
-| 2026 | **When the Agent Speaks for the Company: A Twelve-Week Experience Report on Failure Boundaries and Control Design in a Multi-Party LLM Agent** | [Zenodo, doi:10.5281/zenodo.22704694](https://doi.org/10.5281/zenodo.22704694) · arXiv submitted |
+| 2026 | **When the Agent Speaks for the Company: A Twelve-Week Experience Report on Failure Boundaries and Control Design in a Multi-Party LLM Agent** | [Zenodo, doi:10.5281/zenodo.22704694](https://doi.org/10.5281/zenodo.22704694) |
 | 2026 | **When Auditors Fabricate: Batch-Size Degradation and Confident Hallucination in LLM Detection of Planted Document Contamination** | [Zenodo, doi:10.5281/zenodo.21939087](https://doi.org/10.5281/zenodo.21939087) · [arXiv:2609.09696](https://arxiv.org/abs/2609.09696) |
 
 *When the Agent Speaks for the Company* is a single-author field study of a large language model agent that ran for twelve weeks inside a working business, speaking to staff, partner staff and outside counterparties. It codes 45 logged incidents by causal mechanism and impact, measures a confidentiality leak rate against the full message record, and quantifies how much the incident log itself undercounts. The coded incident record is released as a CSV supplement.
@@ -19,7 +19,7 @@ I build machine learning pipelines, production AI platforms, and autonomous agen
 
 Both are open access under CC BY 4.0. The links above are concept DOIs and always resolve to the newest version.
 
-ORCID: [0009-0000-1681-3274](https://orcid.org/0009-0000-1681-3274)
+ORCID: [0009-0000-1681-3274](https://orcid.org/0009-0000-1681-3274) · Google Scholar: [Karan Parekh](https://scholar.google.com/citations?user=EXaI72QAAAAJ)
 
 ---
 
@@ -65,6 +65,7 @@ ORCID: [0009-0000-1681-3274](https://orcid.org/0009-0000-1681-3274)
 ### Connect
 
 - **LinkedIn:** [linkedin.com/in/karanparekh14](https://linkedin.com/in/karanparekh14)
+- **Google Scholar:** [scholar.google.com/citations?user=EXaI72QAAAAJ](https://scholar.google.com/citations?user=EXaI72QAAAAJ)
 - **Email:** karan.parekh14@gmail.com
 - **Portfolio:** [sourcewithai.com](https://sourcewithai.com)
 

@@ -26,13 +26,13 @@ ORCID: [0009-0000-1681-3274](https://orcid.org/0009-0000-1681-3274) · Google Sc
 ### What I Build
 
 **Production AI Systems**
-- Built and deployed [SourceWithAI](https://sourcewithai.com), a full-stack AI-powered B2B sourcing platform with conversational search, multi-LLM orchestration, and vector search (Next.js + Express + FastAPI + MongoDB + Elasticsearch)
+- Led the build and operation of [SourceWithAI](https://sourcewithai.com), a full-stack AI-powered B2B sourcing platform with conversational search, multi-LLM orchestration, and vector search (Next.js + Express + FastAPI + MongoDB + Elasticsearch) through May 2026. The platform remains live.
 - Designed and operated an autonomous WhatsApp AI agent (Chotu) that ran business operations daily through to May 2026: product sourcing, presentation generation, email campaigns, and team coordination using persistent memory architecture
 - Designed and run [The Agency](https://github.com/karanparekh14/the-agency), three AI agents on WhatsApp and one Handler agent that commands them from my phone: sender-verified commands against prompt injection, code-first mail triage, walled agents and a deploy gate that traces every change. Live since August 2026.
 
 **Machine Learning & Statistical Research**
 - Classification, regression, NLP, XGBoost, SHAP interpretability
-- Hierarchical regression on 646K federal employee records that surfaced a Simpson's Paradox
+- Hierarchical regression on 519,284 federal employee survey responses (2024 FEVS) that surfaced a Simpson's Paradox
 - LLM evaluation research testing Gemini's contamination detection on 150 academic PDFs
 - Field research on failure boundaries and control design in production LLM agents
 
@@ -54,11 +54,11 @@ ORCID: [0009-0000-1681-3274](https://orcid.org/0009-0000-1681-3274) · Google Sc
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [SourceWithAI Platform](https://github.com/karanparekh14/sourcewithai-platform) | Full-stack AI-powered B2B sourcing marketplace with conversational search, multi-platform aggregation, and 50+ API endpoints. Built and run through May 2026. | Next.js, Express, FastAPI, MongoDB, Elasticsearch, Redis, GPT-4o, Claude |
+| [SourceWithAI Platform](https://github.com/karanparekh14/sourcewithai-platform) | Full-stack AI-powered B2B sourcing marketplace with conversational search, multi-platform aggregation, and 50+ API endpoints. Led through May 2026; the platform remains live. | Next.js, Express, FastAPI, MongoDB, Elasticsearch, Redis, GPT-4o, Claude |
 | [Chotu: AI Operations Agent](https://github.com/karanparekh14/chotu-ai-agent) | WhatsApp-connected autonomous agent. Product sourcing, presentation generation, email campaigns, persistent memory. **Ran in production for twelve weeks to May 2026.** | OpenClaw, Claude Sonnet, Node.js, Gamma API, OTAPI, SmartLead |
 | [The Agency](https://github.com/karanparekh14/the-agency) | Three WhatsApp AI agents run by one Handler agent. Sender-verified commands against prompt injection, code-first mail triage, walled agents and a deploy gate. **Live since August 2026.** | Python, OpenClaw, Claude, WSL2, GitHub Actions |
 | [Customer Churn Prediction](https://github.com/karanparekh14/CUSTOMER-CHURN-PREDICTION-IN-TELECOM-USING-MACHINE-LEARNING) | Interpretable XGBoost and SHAP classification pipeline for telecom churn. **78.2% accuracy, 0.848 AUC** on the test set, with a costed retention business case. | Python, XGBoost, SHAP, SMOTE |
-| [Federal Employee Satisfaction](https://github.com/karanparekh14/federal-employee-satisfaction-analysis) | Hierarchical OLS regression on 646K survey records, final R2 of .597. **Surfaced a Simpson's Paradox** in telework data. | Python, Statsmodels, Matplotlib |
+| [Federal Employee Satisfaction](https://github.com/karanparekh14/federal-employee-satisfaction-analysis) | Hierarchical OLS regression on 519,284 FEVS 2024 survey records, final R2 of .597. **Surfaced a Simpson's Paradox** in telework data. | Python, Statsmodels, Matplotlib |
 | [Lead Scoring Model](https://github.com/karanparekh14/Lead-Score-Case-Study) | Logistic regression lead scoring. **81.5% test accuracy, 76.3% recall.** ROC-AUC 0.88 on train, VIF multicollinearity analysis. | Python, Scikit-learn, Statsmodels |
 | [LLM Evaluation Research](https://github.com/karanparekh14/llm-contamination-detection-eval) | Tested Gemini's ability to detect 450 planted contaminants in 150 academic PDFs. Published: [When Auditors Fabricate](https://doi.org/10.5281/zenodo.21939087), also [arXiv:2609.09696](https://arxiv.org/abs/2609.09696). | Python, Gemini API, NLP |
 
@@ -69,7 +69,6 @@ ORCID: [0009-0000-1681-3274](https://orcid.org/0009-0000-1681-3274) · Google Sc
 - **LinkedIn:** [linkedin.com/in/karanparekh14](https://linkedin.com/in/karanparekh14)
 - **Google Scholar:** [scholar.google.com/citations?user=EXaI72QAAAAJ](https://scholar.google.com/citations?user=EXaI72QAAAAJ)
 - **Email:** karan.parekh14@gmail.com
-- **Portfolio:** [sourcewithai.com](https://sourcewithai.com)
 
 ---
 

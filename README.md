@@ -28,6 +28,7 @@ ORCID: [0009-0000-1681-3274](https://orcid.org/0009-0000-1681-3274) · Google Sc
 **Production AI Systems**
 - Built and deployed [SourceWithAI](https://sourcewithai.com), a full-stack AI-powered B2B sourcing platform with conversational search, multi-LLM orchestration, and vector search (Next.js + Express + FastAPI + MongoDB + Elasticsearch)
 - Designed and operated an autonomous WhatsApp AI agent (Chotu) that ran business operations daily through to May 2026: product sourcing, presentation generation, email campaigns, and team coordination using persistent memory architecture
+- Designed and run [The Agency](https://github.com/karanparekh14/the-agency), three AI agents on WhatsApp and one Handler agent that commands them from my phone: sender-verified commands against prompt injection, code-first mail triage, walled agents and a deploy gate that traces every change. Live since August 2026.
 
 **Machine Learning & Statistical Research**
 - Classification, regression, NLP, XGBoost, SHAP interpretability
@@ -41,10 +42,10 @@ ORCID: [0009-0000-1681-3274](https://orcid.org/0009-0000-1681-3274) · Google Sc
 
 - **Languages:** Python, JavaScript/TypeScript, SQL, R
 - **ML/AI:** Scikit-learn, XGBoost, SHAP, Statsmodels, Pandas, NumPy, OpenAI, Gemini, Anthropic Claude
-- **Search & AI:** Vector embeddings (Transformers.js), RAG, Elasticsearch, intent classification, LangChain
+- **Search & AI:** Vector embeddings (OpenAI), RAG, Elasticsearch, intent classification, LangChain (coursework)
 - **Web:** Next.js, React, Express.js, FastAPI, Node.js, Socket.io
-- **Databases:** MongoDB, PostgreSQL, MySQL, Redis, Elasticsearch
-- **Cloud & DevOps:** AWS (S3), Vultr VPS, Nginx, PM2, Vercel, Docker
+- **Databases:** MongoDB, MySQL, Redis, Elasticsearch
+- **Cloud & DevOps:** AWS (S3), Vultr VPS, Nginx, PM2, Vercel, GitHub Actions
 - **Tools:** Git, Tableau, Power BI, Stripe API, Gamma API, OTAPI
 
 ---
@@ -55,6 +56,7 @@ ORCID: [0009-0000-1681-3274](https://orcid.org/0009-0000-1681-3274) · Google Sc
 |---------|-------------|-------|
 | [SourceWithAI Platform](https://github.com/karanparekh14/sourcewithai-platform) | Full-stack AI-powered B2B sourcing marketplace with conversational search, multi-platform aggregation, and 50+ API endpoints. Built and run through May 2026. | Next.js, Express, FastAPI, MongoDB, Elasticsearch, Redis, GPT-4o, Claude |
 | [Chotu: AI Operations Agent](https://github.com/karanparekh14/chotu-ai-agent) | WhatsApp-connected autonomous agent. Product sourcing, presentation generation, email campaigns, persistent memory. **Ran in production for twelve weeks to May 2026.** | OpenClaw, Claude Sonnet, Node.js, Gamma API, OTAPI, SmartLead |
+| [The Agency](https://github.com/karanparekh14/the-agency) | Three WhatsApp AI agents run by one Handler agent. Sender-verified commands against prompt injection, code-first mail triage, walled agents and a deploy gate. **Live since August 2026.** | Python, OpenClaw, Claude, WSL2, GitHub Actions |
 | [Customer Churn Prediction](https://github.com/karanparekh14/CUSTOMER-CHURN-PREDICTION-IN-TELECOM-USING-MACHINE-LEARNING) | Interpretable XGBoost and SHAP classification pipeline for telecom churn. **78.2% accuracy, 0.848 AUC** on the test set, with a costed retention business case. | Python, XGBoost, SHAP, SMOTE |
 | [Federal Employee Satisfaction](https://github.com/karanparekh14/federal-employee-satisfaction-analysis) | Hierarchical OLS regression on 646K survey records, final R2 of .597. **Surfaced a Simpson's Paradox** in telework data. | Python, Statsmodels, Matplotlib |
 | [Lead Scoring Model](https://github.com/karanparekh14/Lead-Score-Case-Study) | Logistic regression lead scoring. **81.5% test accuracy, 76.3% recall.** ROC-AUC 0.88 on train, VIF multicollinearity analysis. | Python, Scikit-learn, Statsmodels |
